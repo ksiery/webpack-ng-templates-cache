@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "md5": "^2.2.1",
-    "recursive-readdir": "^2.2.2",
+    "recursive-readdir": "^2.2.3",
     "schema-utils": "^2.6.4"
   }
 }
